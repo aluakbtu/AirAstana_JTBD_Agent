@@ -14,23 +14,25 @@ The current procurement process suffers from long cycle times, manual reconcilia
 
 ---
 
-## 3. ROI Estimate (Illustrative)
-**Assumptions:**
-- 1 Procurement Officer saves ~8 hours per week
-- 20 Procurement Officers in scope
-- Average fully-loaded hourly cost: $30
+## 3. ROI Estimate (Kazakhstan-Based)
+
+**Assumptions (Kazakhstan context):**
+- Average Procurement Officer monthly salary (KZ): ~600,000 KZT
+- Estimated fully-loaded hourly cost: ~3,750 KZT/hour
+- Time saved per officer: 8 hours/week
+- Officers in pilot scope: 20
 - Working weeks per year: 52
 
 **Annual Time Savings:**
 8 × 20 × 52 = **8,320 hours**
 
 **Estimated Annual Value:**
-8,320 × $30 ≈ **$249,600**
+8,320 × 3,750 KZT ≈ **31,200,000 KZT per year**
 
 **Additional Non-Quantified Benefits:**
-- Reduced risk of contractual penalties
-- Fewer last-minute escalations
-- Lower employee burnout and turnover risk
+- Reduced contractual penalty risk
+- Faster vendor onboarding
+- Lower burnout and turnover risk in procurement teams
 
 ---
 
@@ -58,6 +60,11 @@ The current procurement process suffers from long cycle times, manual reconcilia
 - Full audit trail of document versions and AI outputs
 - Logging of all interactions for compliance review
 - No autonomous approvals or external data sharing
+- **Kazakhstan Regulatory Considerations:**
+- All procurement and contract data must comply with Kazakhstan data localization requirements.
+- Sensitive contractual data should be processed only within on-premise or private cloud infrastructure hosted in Kazakhstan.
+- The AI agent must operate in a human-in-the-loop mode to ensure transparency and accountability.
+- No autonomous legal or financial decisions are permitted, in line with emerging Kazakhstan AI governance principles.
 
 ---
 
