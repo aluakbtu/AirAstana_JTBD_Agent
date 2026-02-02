@@ -60,7 +60,8 @@ The current procurement process suffers from long cycle times, manual reconcilia
 - Full audit trail of document versions and AI outputs
 - Logging of all interactions for compliance review
 - No autonomous approvals or external data sharing
-- **Kazakhstan Regulatory Considerations:**
+  
+**Kazakhstan Regulatory Considerations:**
 - All procurement and contract data must comply with Kazakhstan data localization requirements.
 - Sensitive contractual data should be processed only within on-premise or private cloud infrastructure hosted in Kazakhstan.
 - The AI agent must operate in a human-in-the-loop mode to ensure transparency and accountability.
